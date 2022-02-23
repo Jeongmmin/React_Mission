@@ -1,9 +1,9 @@
 # 📚 React_Mission
 프로젝트 라이언 The Origin: React 과제입니다.  
 
-📌 [과제리스트](/README.md/#과제-리스트)  
+📌 [과제리스트](/README.md/#-과제-리스트)  
 
-📌 [미션 스크린샷](/README.md/#미션-스크린샷) 
+📌 [미션 스크린샷](/README.md/#-미션-스크린샷) 
 
 
 
