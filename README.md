@@ -18,12 +18,12 @@
 ## 📝 과제 리스트
 
 > 1차 미션  
-  - [Basic](./1차/Basic/m1-basic.md)  
-  - [Chanllenge](./1차/Challenge/m1-challenge.md)  
+  - [Basic](./1차/Basic/M1-Basic.md)  
+  - [Chanllenge](./1차/Challenge/M1-Challenge.md)  
 
 > 2차 미션  
-<!--   - [Basic](./1차/Basic/m2-basic.md)  
-  - [Chanllenge](./1차/Challenge/m2-challenge.md)   -->
+<!--   - [Basic](./1차/Basic/M2-Basic.md)  
+  - [Chanllenge](./1차/Challenge/M2-Challenge.md)   -->
   
 
 <!-- <p align="center">
