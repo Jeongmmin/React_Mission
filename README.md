@@ -22,8 +22,8 @@
   - [Chanllenge](./1차/Challenge/M1-Challenge.md)  
 
 > 2차 미션  
-<!--   - [Basic](./1차/Basic/M2-Basic.md)  
-  - [Chanllenge](./1차/Challenge/M2-Challenge.md)   -->
+  - [Basic](./1차/Basic/M2-Basic.md)  
+  - [Chanllenge](./1차/Challenge/M2-Challenge.md)  
   
 
 <!-- <p align="center">
