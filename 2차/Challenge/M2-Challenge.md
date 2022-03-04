@@ -7,7 +7,7 @@
 
 1. localStorage에 todoData 값을 담아서 페이지를 refresh 해도 todoData가 계속 남아 있을 수 있게 해 주세요.  
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/82005305/156795459-24fdbff6-d777-4403-b995-c6d26039c80d.gif">
+    <img src="https://user-images.githubusercontent.com/82005305/156797994-a1897f27-4880-4ba7-847e-9b7859af82b7.gif">
 </p>  
 
 <br/>   
