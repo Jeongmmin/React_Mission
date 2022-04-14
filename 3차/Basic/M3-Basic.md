@@ -114,3 +114,7 @@ export default MovieModal;
 
   </div>
   </details>  -->
+
+
+<br/>
+[📑 메인페이지로 돌아가기](/README.md)
