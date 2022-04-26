@@ -66,7 +66,7 @@
   </details> 
   
   
-> 
+<!-- > 
   <details>
     <summary>4차 미션</summary>
   <div markdown="1">
@@ -76,7 +76,13 @@
   - [🔗 전체코드(react mission 04 repository)](https://github.com/React-Mission/react_mission_04-Jeongmmin)
 
   </div>
-  </details> 
+  </details>  -->
+  
+> 4차 미션
+
+- [Basic](./4차/Basic/M4-Basic.md)  
+- [Chanllenge](./4차/Challenge/M4-Challenge.md)  
+- [🔗 전체코드(react mission 04 repository)](https://github.com/React-Mission/react_mission_04-Jeongmmin)
 
 
 
@@ -163,7 +169,7 @@
   </details>
 
 
->   
+<!-- >   
   <details>
     <summary>4차 미션</summary>
   <div markdown="1">
@@ -186,7 +192,28 @@
   [🔗 Counter](http://jm-react-bucket.s3-website.ap-northeast-2.amazonaws.com/) 
 
   </div>
-  </details>
+  </details> -->
+  
+> 4차 미션
+ - 간단한 애플리케이션을 테스트 주도 개발을 사용해서 만들기
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/82005305/161424373-f61ed172-b93d-413e-a113-01340fa36183.gif">
+  </p>  
+  <br/>
+  <br/>
+
+- Github Action을 이용해서 AWS S3로 앱을 자동 배포하기
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/82005305/161424290-61e1e8fa-22c7-4425-bdeb-240f855700ab.png">
+  </p>
+  <br/>
+  <br/>
+
+- 배포페이지   
+  [🔗 Counter](http://jm-react-bucket.s3-website.ap-northeast-2.amazonaws.com/) 
+
+
+
 
 
 
